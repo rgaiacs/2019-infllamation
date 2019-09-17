@@ -2,3 +2,5 @@
 
 git status
 git pull
+git commit
+git push
